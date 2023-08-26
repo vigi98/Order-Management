@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vignesh.hegde01
+Build-Jdk: 11.0.7
+Implementation-Title: Zuull
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.app.fa.zuul
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ZuulServer
+Created-By: Maven Integration for Eclipse
+
